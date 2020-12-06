@@ -3,6 +3,6 @@ This is the scratch pad from the first session of the one day workshop at Univer
 
 ### <b>Go to folder titled "jupyter-notebook" and open the ipynb file to see the scratch pad.</b>
 
-The second session will be uploaded later here.
+Link for the Second Session Workshop repository:https://github.com/dekha51/Basic-Python-Geos-Workshop
 
 ![alt text](https://github.com/panjoel4/Basic-Python-Workshop/blob/main/images/workshop.jpg?raw=true)
